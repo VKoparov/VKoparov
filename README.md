@@ -3,7 +3,7 @@
               Codding -> { Writing from complex corporate apps to creating small fun games and apps in my free time } ,
               Learning -> { I am up for everything that is new, from new books and movies to techmologies and just news in general } ,
               Outdoor -> { I excersice and travel often, ofcourse before the C...-19 you know.... } ,
-              Inddor -> { Exceptional talents in cooking and being lazy 🍝 }
+              Indoor -> { Exceptional talents in cooking and being lazy 🍝 }
 - 🌱 I’m currently working 🔝 secret project 😎
 - 🧠I'm currently learning Angular Ionic, Kotlin and just improving existing skills
 - 💞️ I’m looking to work/collaborate more on my personal projects
