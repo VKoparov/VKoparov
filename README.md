@@ -8,7 +8,7 @@
 - 🧠I'm currently learning Angular Ionic, Kotlin and just improving existing skills
 - 💞️ I’m looking to work/collaborate more on my personal projects
 - 📫 How to reach me: 
-             Email -> { valentinkoparov@gmail.com },
+             Email -> { valentinkoparov.dev@gmail.com },
              Social -> { 
                  Twitter: https://twitter.com/VKoparov, 
                  Facebook: https://www.facebook.com/valentin.koparov 
